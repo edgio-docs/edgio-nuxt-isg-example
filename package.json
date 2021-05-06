@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "layer0:dev": "layer0 dev",
+    "layer0:build": "layer0 build",
+    "layer0:deploy": "layer0 deploy",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "name": "nuxt-isg-example",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nuxt/core": "^2.15.3"
+  },
+  "devDependencies": {
+    "@layer0/cli": "^3.4.0",
+    "@layer0/core": "^3.4.0",
+    "@layer0/devtools": "^3.4.0",
+    "@layer0/nuxt": "^3.4.0",
+    "@layer0/prefetch": "^3.4.0",
+    "@layer0/vue": "^3.4.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3"
+  }
+}
