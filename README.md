@@ -2,7 +2,7 @@
 A demo showing off ISG (Incremental Static Generation) with Nuxt.js and Layer0
 
 ## Demo
-https://layer0-docs-layer0-nuxt-isg-example.layer0-limelight.link
+https://layer0-docs-layer0-nuxt-isg-example-default.layer0-limelight.link
 
 ## Try It Now
 [![Deploy with Layer0](https://docs.layer0.co/button.svg)](https://app.layer0.co/deploy?repo=https://github.com/layer0-docs/layer0-nuxt-isg-example)
