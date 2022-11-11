@@ -22,7 +22,7 @@
     "@layer0/core": "^4.5.1",
     "@layer0/devtools": "^4.5.1",
     "@layer0/nuxt": "^4.5.1",
-    "@layer0/prefetch": "^4.5.1",
+    "@layer0/prefetch": "^4.19.4",
     "@layer0/vue": "^4.5.1",
     "@nuxtjs/tailwindcss": "^4.0.1",
     "core-js": "^3.9.1",
