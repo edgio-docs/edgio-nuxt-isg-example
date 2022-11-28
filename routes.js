@@ -1,5 +1,5 @@
-const { Router } = require('@layer0/core/router')
-const { nuxtRoutes } = require('@layer0/nuxt')
+const { Router } = require('@edgio/core/router')
+const { nuxtRoutes } = require('@edgio/nuxt')
 
 module.exports = new Router()
   .match('/service-worker.js', ({ serviceWorker }) => {

@@ -1,15 +1,15 @@
 {
   "scripts": {
-    "layer0:dev": "layer0 dev",
-    "layer0:build": "layer0 build",
-    "layer0:deploy": "layer0 deploy",
-    "deploy": "layer0 deploy",
+    "edgio:dev": "edgio dev",
+    "edgio:build": "edgio build",
+    "edgio:deploy": "edgio deploy",
+    "deploy": "edgio deploy",
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
-  "name": "layer0-nuxt-isg-example",
+  "name": "edgio-nuxt-isg-example",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -18,12 +18,12 @@
     "rss-to-json": "^2.0.2"
   },
   "devDependencies": {
-    "@layer0/cli": "^4.5.1",
-    "@layer0/core": "^4.5.1",
-    "@layer0/devtools": "^4.5.1",
-    "@layer0/nuxt": "^4.5.1",
-    "@layer0/prefetch": "^4.5.1",
-    "@layer0/vue": "^4.5.1",
+    "@edgio/cli": "^5.0.4",
+    "@edgio/core": "^5.0.4",
+    "@edgio/devtools": "^5.0.4",
+    "@edgio/nuxt": "^5.0.4",
+    "@edgio/prefetch": "^5.0.4",
+    "@edgio/vue": "^5.0.4",
     "@nuxtjs/tailwindcss": "^4.0.1",
     "core-js": "^3.9.1",
     "fs-cheerio": "^3.0.0",
