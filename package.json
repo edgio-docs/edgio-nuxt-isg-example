@@ -18,17 +18,18 @@
     "rss-to-json": "^2.0.2"
   },
   "devDependencies": {
-    "@edgio/cli": "^5.0.4",
-    "@edgio/core": "^5.0.4",
-    "@edgio/devtools": "^5.0.4",
-    "@edgio/nuxt": "^5.0.4",
-    "@edgio/prefetch": "^5.0.4",
-    "@edgio/vue": "^5.0.4",
+    "@edgio/cli": "^6.0.5",
+    "@edgio/core": "^6.0.5",
+    "@edgio/devtools": "^6.0.5",
+    "@edgio/nuxt": "^6.0.5",
+    "@edgio/prefetch": "^6.0.5",
+    "@edgio/vue": "^6.0.5",
     "@nuxtjs/tailwindcss": "^4.0.1",
     "core-js": "^3.9.1",
     "fs-cheerio": "^3.0.0",
     "nuxt": "^2.15.3",
     "postcss": "^8.2.8",
     "prettier": "^2.3.2"
-  }
+  },
+  "repository": "git@github.com:edgio-docs/edgio-nuxt-isg-example.git"
 }
